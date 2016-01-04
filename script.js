@@ -7,3 +7,5 @@ function sum(n){
 }
 
 console.log(sum(numbers));
+
+//another comment for testing
